@@ -7,7 +7,7 @@
    style="enable-background:new 0 0 269.8 163.8;"
    version="1.1"
    viewBox="0 0 269.8 163.8"
-   sodipodi:docname="centrolame_MAPPA_3D_20251014.svg"
+   sodipodi:docname="CentroLame.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,23 +22,20 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="3.562271"
-   inkscape:cx="191.59126"
-   inkscape:cy="92.076093"
-   inkscape:window-width="1278"
-   inkscape:window-height="664"
-   inkscape:window-x="1273"
-   inkscape:window-y="0"
-   inkscape:window-maximized="0"
+   inkscape:cx="142.74602"
+   inkscape:cy="91.935734"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="2552"
+   inkscape:window-y="174"
+   inkscape:window-maximized="1"
    inkscape:current-layer="Livello_1_2_" /><defs
    id="defs387" />
   <style
    id="style1">.st0{enable-background:new}.st4{fill:#919191}.st5{fill:#808080}.st6{fill:#ACACAC}.st7{fill:#898989}.st10{fill:#8B8B8B}.st11{fill:#888888}.st13{display:none}.st15{display:inline;fill:#944C98}.st16{display:inline;fill:#8D4991}.st17{display:inline;fill:#FFCC00}.st18{display:inline;fill:#36A9E1}.st19{display:inline;fill:#95C11F}.st20{display:inline;fill:#E44E96}.st22{display:inline;fill:#F18809}.st23{fill:none}.st24{fill:#333333}.st25{display:inline}.st26{fill:#EEEEEE}.st27{fill:#D7761B}.st28{fill:#D70912}.st29{fill:#171717}.st30{fill:#FFFFFF}</style>
-  <switch
-   id="switch387">
-    <g
-   id="g387">
-      <g
-   id="MNOINT-base">
+  <g
+   id="MNOINT-base"
+   style="enable-background:new 0 0 269.8 163.8">
         <g
    id="g5">
           <g
@@ -67,9 +64,9 @@
             </g>
           </g>
         </g>
-      </g>
-      <g
-   id="MNOINT_x5F_negozi3d">
+      </g><g
+   id="MNOINT_x5F_negozi3d"
+   style="enable-background:new 0 0 269.8 163.8">
         <g
    id="g237"
    style="display:inline">
@@ -1659,18 +1656,18 @@
    d="m 82.7,80.5 7.8,-1.7 5.3,9.7 4.4,-0.9 0.7,1.3 4.82468,-1.12108 1.6,3.18072 8.28663,-1.465038 2.87353,5.127763 -0.64329,1.99309 -2.49685,3.533175 L 95.7,104.3 Z"
    sodipodi:nodetypes="ccccccccccccc" />
         </g>
-      </g>
-      <g
+      </g><g
    id="active-alimentari"
-   class="st13">
+   class="st13"
+   style="enable-background:new 0 0 269.8 163.8">
         <polygon
    id="n41_2_"
    points="183.3,9.7 204.4,48.5 223.1,44.5 228.6,54.6 222.5,55.9 225,60.5 222.8,60.9 222.4,61 192.8,67.3 193.4,68.3 181.9,64.5 179.7,68.7 172,66.4 166.6,56.6 56,80.1 53,74.7 32.3,79.1 14.1,45.7"
    style="display:inline;fill:#E30A18" />
-      </g>
-      <g
+      </g><g
    id="active-abbigliamento"
-   class="st13">
+   class="st13"
+   style="enable-background:new 0 0 269.8 163.8">
         <polygon
    id="n36_2_"
    points="153.1,65.5 170,72 166.3,77.7 158.6,79.3 158.8,79.7 158.3,79.8 157.9,79.9 155.6,80.4 154.1,77.6 156.7,77 150.7,66"
@@ -1711,10 +1708,10 @@
    id="n17"
    points="69.9,123.9 69.9,123.9 81.6,121.4 79.9,118.2 76.4,116.9 76.1,116.6 76.1,116.6 72.3,109.8 74.1,106.2 68.8,96.5 44.4,101.7 48.2,108.6 48.2,108.6 60.8,131.7 72.8,129.2 70.1,124.2"
    class="st15" />
-      </g>
-      <g
+      </g><g
    id="active-ristorazione"
-   class="st13">
+   class="st13"
+   style="enable-background:new 0 0 269.8 163.8">
         <polygon
    id="n28_2_"
    points="126.7,87 127.8,89 124.5,94.5 119.3,95.6 115.8,89.3 120.7,88.3 121.1,88.2"
@@ -1735,10 +1732,10 @@
    id="n13_2_"
    points="106,110.6 111.6,120.9 94.6,124.5 89.9,115.9 91.1,113.8"
    class="st17" />
-      </g>
-      <g
+      </g><g
    id="active-elettronica"
-   class="st13">
+   class="st13"
+   style="enable-background:new 0 0 269.8 163.8">
         <polygon
    id="n34_2_"
    points="182.4,80.6 184.2,83.8 183,85.7 178.3,86.8 175.7,82"
@@ -1755,10 +1752,10 @@
    id="n26b_2_"
    points="90.5,78.8 95.8,88.5 100.2,87.6 100.9,88.9 103.9,88.2 104.6,89.4 89.3,92.6 87.3,88.9 87.1,88.5 82.7,80.5"
    class="st18" />
-      </g>
-      <g
+      </g><g
    id="active-cura"
-   class="st13">
+   class="st13"
+   style="enable-background:new 0 0 269.8 163.8">
         <polygon
    id="n37_2_"
    points="147.4,66.7 149.7,71 141.2,72.8 137.1,73.7 136.6,73.8 134.8,74.2 132.4,69.9"
@@ -1775,10 +1772,10 @@
    id="n11_2_"
    points="120.1,107.7 125.7,109.8 126.7,111.6 127.4,111.5 135.7,126.6 123.4,129.2 118.3,119.9 118.1,119.5 112.5,109.3"
    class="st19" />
-      </g>
-      <g
+      </g><g
    id="active-cultura"
-   class="st13">
+   class="st13"
+   style="enable-background:new 0 0 269.8 163.8">
         <polygon
    id="n35-36_3_"
    points="170.5,72.2 179.9,75.8 182.2,80.2 175.5,81.7 172.6,76.4 167,77.6"
@@ -1795,18 +1792,18 @@
    id="n1b_2_"
    points="203.8,85.9 211.3,88.9 212.8,87 225.6,91 222.4,98.6 214.5,95.8 206.1,97.6 201.5,89.7"
    class="st20" />
-      </g>
-      <g
+      </g><g
    id="active-beni"
-   class="st13">
+   class="st13"
+   style="enable-background:new 0 0 269.8 163.8">
         <polygon
    id="n10_2_"
    points="139.8,107.2 144.6,115.9 139,117.1 143.3,125 136.1,126.5 127.7,111 127,111.2 126.3,110"
    style="display:inline;fill:#3C4193" />
-      </g>
-      <g
+      </g><g
    id="active-servizi"
-   class="st13">
+   class="st13"
+   style="enable-background:new 0 0 269.8 163.8">
         <polygon
    id="n48_2_"
    points="222.5,61.4 225.9,67.5 196.8,73.7 194.2,68.9 194,68.5 193.5,67.6"
@@ -1843,9 +1840,9 @@
    id="n4_1_"
    points="194.9,99.6 196.7,102.9 186,105.2 184.2,101.9"
    class="st22" />
-      </g>
-      <g
-   id="MLOC-shop">
+      </g><g
+   id="MLOC-shop"
+   style="enable-background:new 0 0 269.8 163.8">
         <polygon
    points="228.8,54.9 234.7,65.7 226.3,67.4 223,61.3 225.6,60.7 223.1,56.1"
    class="st23"
@@ -2060,9 +2057,9 @@
    points="239.4,72.8 254.9,101.3 238.1,104.9 231.6,93 227.7,93.9 226.1,91 226.1,90.8 225.8,90.4 225.7,90.7 223.7,90.1 212.6,86.6 211.1,88.4 204,85.6 207.6,79.7"
    class="st23"
    inkscape:label="01B" />
-      </g>
-      <g
-   id="MNOINT-ancore">
+      </g><g
+   id="MNOINT-ancore"
+   style="enable-background:new 0 0 269.8 163.8">
         <g
    id="g238">
           <path
@@ -2411,10 +2408,10 @@
             </g>
           </g>
         </g>
-      </g>
-      <g
+      </g><g
    id="MNOINT-numeri"
-   class="st13">
+   class="st13"
+   style="enable-background:new 0 0 269.8 163.8">
         <g
    class="st25"
    id="g386">
@@ -3058,10 +3055,4 @@
           </g>
         </g>
       </g>
-      <path
-   d="M109.3,101.4"
-   class="st23"
-   id="path386" />
-    </g>
-  </switch>
 </svg>
