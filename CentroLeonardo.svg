@@ -35,7 +35,7 @@
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Livello_1_4_" />
+   inkscape:current-layer="MLOC-shop" />
 <style
    type="text/css"
    id="style1">
@@ -3840,14 +3840,14 @@
    y="173.00746"
    transform="matrix(0.97134849,-0.23765964,0.34238466,0.93955987,0,0)" /></g><g
    id="MLOC-shop"
-   style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">
+   style="opacity:0;fill-opacity:1;stroke:none;stroke-opacity:1">
 	
 		<path
    id="NK2"
    class="st27"
    inkscape:label="NK2"
    transform="matrix(0.7596,-0.6504,0.6504,0.7596,0.5073,199.4182)"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="M 272.29999,99 A 2.2999859,3.5999999 0 0 1 270,102.6 2.2999859,3.5999999 0 0 1 267.70001,99 2.2999859,3.5999999 0 0 1 270,95.4 2.2999859,3.5999999 0 0 1 272.29999,99 Z" />
 	
 		<path
@@ -3855,7 +3855,7 @@
    class="st27"
    inkscape:label="NK1"
    transform="matrix(0.7596,-0.6504,0.6504,0.7596,4.311,201.7085)"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="M 277.29999,95 A 2.2999859,3.5999999 0 0 1 275,98.6 2.2999859,3.5999999 0 0 1 272.70001,95 2.2999859,3.5999999 0 0 1 275,91.4 2.2999859,3.5999999 0 0 1 277.29999,95 Z" />
 	
 		<path
@@ -3863,349 +3863,349 @@
    class="st27"
    inkscape:label="K5E"
    transform="matrix(0.7596,-0.6504,0.6504,0.7596,-30.2186,157.8436)"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 200.69998,119.8 a 2.2999859,3.5999999 0 0 1 -2.29999,3.6 2.2999859,3.5999999 0 0 1 -2.29998,-3.6 2.2999859,3.5999999 0 0 1 2.29998,-3.6 2.2999859,3.5999999 0 0 1 2.29999,3.6 z" />
 	<path
    id="22EBIS"
    class="st27"
    inkscape:label="22EBIS"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 298.6,82.7 4.1,7.4 -10.8,2.3 -6,-7.1 z" />
 	<path
    id="MSU1"
    class="st27"
    d="M287.9,68.3c1.5-0.3,3.1,0.3,3.7,1.4l6.8,12.5L285.6,85l-0.1-0.2l-0.1,0.2h-0.2l0.1,0.1l-3.9,6.4   l-1.1-2.1l-4.1-1.6l1.7-2.8l-3.6-6.6l6-1.3l1.7,3.1l6.3-1.3l-5.2-9.6L287.9,68.3z"
    inkscape:label="MSU1"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="22EN"
    class="st27"
    inkscape:label="22EN"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 285.6,85.6 5.9,7.1 -0.8,3.7 -6.1,1.3 -3,-5.6 z" />
 	<path
    id="IPER"
    class="st27"
    inkscape:label="IPER"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 189.7,18.8 8,14.7 20.5,-4.3 -0.8,-1.5 42.8,-9.1 12.8,23.5 -4.7,1 14.1,26.1 3.6,6.7 1.6,2.9 -5.4,1.1 -1.7,-3.1 -6.9,1.5 3.7,6.8 -1.6,2.7 -4.2,-1.6 -107.7,23 -1.8,-3.3 -2,-3.6 -6.3,-11.6 4.1,-0.9 -2.2,-4.2 -8.4,1.8 L 118.1,34 Z" />
 	<path
    id="21E"
    class="st27"
    inkscape:label="21E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 161.7,106.3 1.6,2.9 -3.8,0.9 -1.6,-3 z" />
 	<path
    id="K3E"
    class="st27"
    d="M187.2,108.4c0.4-0.1,0.8,0,1.4,0.2c0.6,0.3,1.2,0.7,1.7,1.3c0.4,0.6,0.7,1.1,0.7,1.7   c0,0.5-0.2,0.8-0.6,0.9c-0.1,0-0.1,0-0.2,0.1c-0.4,0.1-0.8,0-1.4-0.2c-0.6-0.3-1.2-0.7-1.7-1.3c-0.9-1.1-1-2.3-0.1-2.6L187.2,108.4   z"
    inkscape:label="K3E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="K4E"
    class="st27"
    d="M196.6,106.4h0.2c0.9-0.1,2.1,0.9,2.4,2.1c0.2,0.6,0.2,1.2-0.1,1.7c-0.2,0.4-0.5,0.6-0.9,0.7   c-0.1,0-0.1,0-0.2,0c-0.9,0.1-2.1-0.9-2.4-2.1c-0.2-0.6-0.1-1.2,0.1-1.7C195.9,106.8,196.2,106.5,196.6,106.4z"
    inkscape:label="K4E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="R3"
    class="st27"
    d="M100.2,75.1c0.6,0.2,1.2,0.3,1.7,0.5l1.3,0.4l8.8-1.9l1.1,1.9l-2.8,0.6l1.5,2.7l-8,1.7   c-1.4-0.9-3-1.5-4.7-1.9l0.8-2.7L100.2,75.1z"
    inkscape:label="R3"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="R2_DEPR2"
    class="st27"
    d="M90.1,74.8c3-0.6,6.3-0.6,9.6,0.2l-1.2,4.2c-1.5-0.3-2.9-0.4-4.3-0.3C93.6,79,93,79,92.4,79.2   c-2.8,0.6-4.9,1.9-6.1,3.8l-4.6-3.3l1.2-1.2C84.6,76.6,87.2,75.4,90.1,74.8z"
    inkscape:label="R2_DEPR2"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="R4"
    class="st27"
    d="M120.2,72.4l4.5,8.3l-3.1,0.7l3.1,5.8l-11.1,2.3l-4.2-0.4c-0.3,0-0.6-0.1-0.8-0.2   c-0.4-0.2-0.7-0.6-0.7-0.9c0.1-2.5-1.2-4.7-3.8-6.5l8.2-1.8l-1.5-2.7l2.8-0.6l-1.2-2.3L120.2,72.4z"
    inkscape:label="R4"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="R1"
    class="st27"
    d="M108.7,92.1l4.9,0.6l12.7-2.7l0.9,1.6l-2.2,0.5l3.2,5.9l-12.8,2.7c-1,0.2-2.1-0.1-2.8-0.7   l-6.4-5.3L108.7,92.1z"
    inkscape:label="R1"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="01"
    class="st27"
    d="M104.7,96.8l7.1,5.6c0.4,0.3,1,0.6,1.6,0.7l-2.8,0.6l-0.5,0.1l-4.6,1l-3.5-3L98.7,99l2.5-1.3   L104.7,96.8z"
    inkscape:label="01"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="02"
    class="st27"
    inkscape:label="02"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 98.3,99.1 3.2,2.8 3.5,3 -9.6,2 -1,-1.8 1.4,-4.6 z" />
 	<path
    id="MSU5"
    class="st27"
    d="M58.1,80.5l3.5,6.5l11.3-2.4l1.9,0.4c0.6,1.2,1.8,2.1,3.2,2.5l5.8,10.7l-7.5,1.6l-40.9,8.7   l-5.6-10.4l-6.9,1.5l-5.7-10.4L58.1,80.5z"
    inkscape:label="MSU5"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="21"
    class="st27"
    inkscape:label="21"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 84,98.5 2.4,4.5 -7,1.5 -2.5,-4.5 z" />
 	<path
    id="05E"
    class="st27"
    inkscape:label="05E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 280.7,103.8 1.5,4.3 -2.7,3.4 -3.6,-6.7 z" />
 	<path
    id="08E"
    class="st27"
    inkscape:label="08E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 258.7,94.9 3.8,6.9 2,3.7 -4,0.8 -5.8,-10.6 z" />
 	<path
    id="09.10E"
    class="st27"
    inkscape:label="09.10E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 254.2,95.8 5.8,10.6 -5.3,1.2 -4.7,1 -1.6,-3 -4.1,-7.6 z" />
 	<path
    id="06E"
    class="st27"
    inkscape:label="06E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 275.5,104.9 3.7,6.9 -9.7,2 -2,-3.7 6.4,-1.3 -1.7,-3.1 z" />
 	<path
    id="07E"
    class="st27"
    inkscape:label="07E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 263.4,102.5 8.2,3.1 1.6,2.9 -6.3,1.4 -9.4,2 -2.2,-4.1 4.9,-1 0.5,-0.1 4.4,-1 z" />
 	<path
    id="11E"
    class="st27"
    inkscape:label="11E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 243.8,98.1 4,7.2 -5.3,1.2 -3.9,-7.3 z" />
 	<path
    id="11AE"
    class="st27"
    inkscape:label="11AE"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 238.1,99.3 4,7.3 -4.4,0.9 -3.9,-7.3 z" />
 	<path
    id="12E"
    class="st27"
    inkscape:label="12E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 233.3,100.3 4,7.3 -3.3,0.7 -3.9,-7.3 z" />
 	<path
    id="13E"
    class="st27"
    inkscape:label="13E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 223.6,102.4 4,7.4 -5.8,1.3 -0.9,0.1 -1.5,0.4 -0.2,-0.4 -0.2,-0.4 -3.7,-6.7 z" />
 	<path
    id="13EBIS"
    class="st27"
    d="M227.6,101.5l4,7.4c0.8,1.5-0.1,3.1-2.2,3.6l-5.8,1.2l-1.3-2.3l5.9-1.3l-4.2-7.8L227.6,101.5z   "
    inkscape:label="13EBIS"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="14E"
    class="st27"
    inkscape:label="14E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 214.9,104.2 3.6,6.7 -5.9,1.3 -3.6,-6.7 z" />
 	<path
    id="14BE"
    class="st27"
    inkscape:label="14BE"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 208.5,105.6 3.7,6.7 -4.6,1 -2.3,-4.1 2.1,-3.4 z" />
 	<path
    id="15E"
    class="st27"
    inkscape:label="15E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 218.7,111.3 0.4,0.7 1.5,-0.3 1.3,2.3 -12.5,2.7 -1.6,-3.1 4.6,-1 0.4,-0.1 z" />
 	<path
    id="MSU2"
    class="st27"
    d="M225.1,116.3l1.4,2.6l4.5-1l7.1,13c-1.5,1.1-3.7,5.8-4,6.4l-10.1,2.1c-2.1-0.7-3.8-3-3.8-3   l-0.1-0.1l-6.5,1.4l-5.9-10.9l4.4-5.3l-1.1-2.1L225.1,116.3z"
    inkscape:label="MSU2"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="20E"
    class="st27"
    inkscape:label="20E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 177,111.8 6.4,2.4 2.4,4.5 -4.5,1 z" />
 	
 	<path
    id="16E"
    class="st27"
    inkscape:label="16E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 207.2,126.9 5.8,10.8 -14.9,3.2 -3.3,-6.1 4,-6.1 z" />
 	<path
    id="MSU3"
    class="st27"
    d="M188.7,124l1.2,2.2l8.3,2.4l-4,6.1l3.5,6.4l-1.3,4.2l-8.3,1.8c-1-0.8-7.5-6.2-12.3-7.1l-2.2-4   l2-1.9l-3.6-6.6L188.7,124z"
    inkscape:label="MSU3"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="12"
    class="st27"
    inkscape:label="12"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 161.2,114.2 6.9,12.5 -5.8,1.2 -6.8,-12.5 z" />
 	<path
    id="11"
    class="st27"
    inkscape:label="11"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 150.6,100.2 5.8,10.5 -5.8,1 -3.3,-6.1 -0.2,-0.4 -2.1,-3.8 z" />
 	<path
    id="10"
    class="st27"
    inkscape:label="10"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 146.8,105.7 3.3,6.1 -3,0.5 -3.3,-6 z" />
 	<path
    id="09"
    class="st27"
    inkscape:label="09"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 144.5,101.5 2.1,3.8 -3.5,0.8 3.5,6.3 -5.8,1.1 -5.4,-10.1 z" />
 	<path
    id="13"
    class="st27"
    inkscape:label="13"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 155,115.5 6.9,12.5 -5.4,1.2 -6.8,-12.5 z" />
 	<path
    id="14"
    class="st27"
    inkscape:label="14"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 149.2,116.7 6.8,12.6 -5.7,1.2 -6.8,-12.5 z" />
 	<path
    id="15"
    class="st27"
    inkscape:label="15"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 143,118.1 6.8,12.5 -5.8,1.2 -6.9,-12.5 z" />
 	<path
    id="16"
    class="st27"
    inkscape:label="16"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 136.7,119.4 6.8,12.5 -3.1,0.7 -6.8,-12.5 z" />
 	<path
    id="17"
    class="st27"
    inkscape:label="17"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 126,121.5 2.2,-0.3 5,-1 6.8,12.5 -7.1,1.5 z" />
 	<path
    id="08"
    class="st27"
    inkscape:label="08"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 131,99.8 2.2,4.1 1.7,-0.4 5.5,10 -9.6,1.3 -7.3,-13.4 z" />
 	<path
    id="06"
    class="st27"
    inkscape:label="06"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 116.6,102.8 6.8,12.6 -6.2,0.5 -3.7,-6.8 -0.2,-0.3 -2.6,-4.7 4.4,-0.9 z" />
 	<path
    id="03"
    class="st27"
    inkscape:label="03"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 110.3,104.2 2.5,4.7 -6.7,1.4 -0.5,0.1 -7.5,1.6 -2.5,-4.7 9.8,-2.1 0.4,-0.1 z" />
 	<path
    id="05"
    class="st27"
    inkscape:label="05"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 113,109.2 3.7,6.7 -7.3,0.5 -3.2,-5.8 z" />
 	<path
    id="04"
    class="st27"
    inkscape:label="04"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 105.8,110.7 3.1,5.7 -3.7,0.3 -4.2,-1.9 -2.7,-2.5 z" />
 	<path
    id="MSU4B"
    class="st27"
    inkscape:label="MSU4B"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 86.6,103.3 5.7,10.5 -41,8.7 -5.7,-10.4 33.5,-7.2 z" />
 	<path
    id="19"
    class="st27"
    d="M108,121.4l2.1-0.2c1.4-0.2,2.9-0.1,4.3,0.3l3.5,1l2.8,5.1l-1,1.1l-3.2-1.1l-2.5-0.2l-6.4-4.3   L108,121.4z"
    inkscape:label="19"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="18"
    class="st27"
    inkscape:label="18"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 118.5,122.4 7.1,-0.9 6.9,12.8 -7.6,1.6 -0.5,-2.1 -1.4,-2.6 -2.8,-2.3 1.1,-1.2 z" />
 	<path
    id="20B"
    class="st27"
    d="M106.5,128l3.6,2.5l0.4,1.6c0.7,2.1,2.8,4,5.7,4.9l-1.2,1.1l-6,1.3l-4.9-8.9L106.5,128z"
    inkscape:label="20B"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+   style="fill-opacity:1;stroke:none;stroke-opacity:1" />
 	<path
    id="20A"
    class="st27"
    inkscape:label="20A"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 96.2,125.7 3.7,1.1 v 0 l 4.1,-0.5 2.1,1.5 -2.6,2.5 4.9,9.1 -8.2,1.7 -5.7,-10.4 z" />
 	<path
    id="MSU4A"
    class="st27"
    inkscape:label="MSU4A"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 92.5,114.1 1.3,2.5 -1.8,2.8 0.3,3.6 3.4,2.5 -1.7,5.2 5.8,10.5 -34.3,7.3 -14,-25.7 z" />
 	<path
    id="03E"
    class="st27"
    inkscape:label="03E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 295.8,99.2 2.1,4 -5.2,1.1 0.9,1.8 -4.8,1 -3.1,-5.7 z" />
 	<path
    id="04E"
    class="st27"
    inkscape:label="04E"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 298.1,103.6 3.5,6.3 -10,2.2 -2.6,-4.7 5.3,-1.1 -1,-1.7 z" />
 	<path
    id="07"
    class="st27"
    inkscape:label="07"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 123,101.5 7.3,13.3 -6.4,0.6 -6.9,-12.7 z" />
 	<path
    id="R5"
    class="st11"
    inkscape:label="R5"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 126.1,89.7 -12.5,2.7 -4.7,-0.6 0.7,-2.3 4.1,0.4 11.2,-2.4 z" />
 	<path
    id="17E_18E_19E"
    class="st27"
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill-opacity:1;stroke:none;stroke-opacity:1"
    d="m 164.4,113.5 11.7,-2.4 5,9 4.5,-1 2.9,4.6 -16.7,3.5 z"
    inkscape:label="17E_18E_19E" />
 </g>
