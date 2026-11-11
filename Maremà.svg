@@ -12,7 +12,7 @@
    style="enable-background:new 0 0 321.58 156.33;"
    xml:space="preserve"
    sodipodi:docname="Maremà.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,15 +27,15 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="3.6501962"
-   inkscape:cx="43.285344"
-   inkscape:cy="119.30866"
-   inkscape:window-width="2560"
-   inkscape:window-height="1369"
-   inkscape:window-x="1912"
+   inkscape:zoom="16"
+   inkscape:cx="58.75"
+   inkscape:cy="123.96875"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="MNOINT-ancore" />
+   inkscape:current-layer="MLOC-shop" />
 <g
    id="MNOINT-base">
 	<g
@@ -1455,7 +1455,11 @@
    style="fill:#808080;"
    points="77.8,126.3 77.4,128.4 69.7,114.2 70.1,112.1     "
    id="polygon207" />
-			</g>
+			<path
+   id="polygon13"
+   style="fill:#808080"
+   d="m 71.604687,127.60859 -0.298438,2.14297 -7.727343,-14.2664 0.298438,-2.14297 z"
+   sodipodi:nodetypes="ccccc" /></g>
 		</g>
 		<g
    style="enable-background:new    ;"
@@ -1476,18 +1480,28 @@
 			</g>
 			<g
    id="g212">
-				<polygon
-   style="fill:#ACACAC;"
-   points="69.6,112.2 77.3,126.4 64.3,129.2 61,123 60.8,122.7 56.6,114.9     "
-   id="polygon211" />
-			</g>
+				<path
+   id="polygon211"
+   style="fill:#acacac"
+   d="m 69.6,112.2 7.7,14.2 -5.698531,1.19824 -7.718191,-14.26121 z"
+   sodipodi:nodetypes="ccccc" />
+			<path
+   id="polygon5"
+   style="fill:#acacac"
+   d="M 63.306582,113.49443 71.023155,127.74967 64.3,129.2 61,123 l -0.2,-0.3 -4.2,-7.8 z"
+   sodipodi:nodetypes="ccccccc" /></g>
 			<g
    id="g213">
-				<polygon
-   style="fill:#919191;"
-   points="77.3,126.4 77,128.5 64,131.2 64.3,129.2     "
-   id="polygon212" />
-			</g>
+				<path
+   id="polygon212"
+   style="fill:#919191"
+   d="m 77.3,126.4 -0.3,2.1 -5.694625,1.24467 0.3,-2.14363 z"
+   sodipodi:nodetypes="ccccc" />
+			<path
+   id="polygon9"
+   style="fill:#919191"
+   d="m 71.015045,127.74792 -0.3,2.1 L 64,131.2 l 0.3,-2 z"
+   sodipodi:nodetypes="ccccc" /></g>
 			<g
    id="g214">
 				<polygon
@@ -2976,11 +2990,7 @@
    style="fill:#b0b1b2;fill-opacity:0.50980395"
    points="92.8,107.2 94.7,110.8 100.2,109.6 105.5,116.5 102,121.2 77.8,126.3 70.1,112.1     "
    inkscape:label="MS5" />
-	<polygon
-   id="R8B"
-   style="fill:#b0b1b2;fill-opacity:0.50980395"
-   points="69.6,112.2 77.3,126.4 64.3,129.2 61,123 60.8,122.7 56.6,114.9  "
-   inkscape:label="R8B" />
+	
 	<polygon
    id="R8A"
    style="fill:#b0b1b2;fill-opacity:0.50980395"
@@ -3072,8 +3082,18 @@
    id="24"
    style="fill:#b0b1b2;fill-opacity:0.50980395"
    d="M116.6,109.7l4.8,8.8l-3.7,0.8c-1.8,0.4-3.7-0.4-4.4-1.7l-1.6-3l-0.7-3.3L116.6,109.7z"
-   inkscape:label="24" />
-	<polygon
+   inkscape:label="24" /><path
+   id="R09_F02"
+   style="enable-background:new;fill:#acacac"
+   d="m 69.6,112.2 7.7,14.2 -5.698531,1.19824 -7.718191,-14.26121 z"
+   sodipodi:nodetypes="ccccc"
+   inkscape:label="R09_F02" />
+	<path
+   id="R09"
+   style="enable-background:new;fill:#acacac"
+   d="M 63.306582,113.49443 71.023155,127.74967 64.3,129.2 61,123 l -0.2,-0.3 -4.2,-7.8 z"
+   sodipodi:nodetypes="ccccccc"
+   inkscape:label="R09" /><polygon
    style="fill:#b0b1b2;fill-opacity:0.50980395"
    points="67.4,44.7 70,49.4 67.1,50 64.6,45.3  "
    id="polygon385" />
